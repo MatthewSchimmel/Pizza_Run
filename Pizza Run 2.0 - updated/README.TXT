@@ -24,6 +24,7 @@ Patch Notes:
 
 To do: add space on the screen, and make houses spawn farther and farther away at higher levels
 
+	Remove instafail and instawin cheats. They provide no actual functions.
 	Condense code and update - create constructor with parameter to reduce the number of assests, both player and NPC, in the game
 	add truck with two pizza capacity and van with three. Trade-off is speed.
 	make loss return the player to the first level, possibly after the timer on the lose screen.
