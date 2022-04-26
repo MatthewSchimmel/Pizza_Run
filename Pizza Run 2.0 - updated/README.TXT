@@ -27,5 +27,6 @@ To do: add space on the screen, and make houses spawn farther and farther away a
 	Remove instafail and instawin cheats. They provide no actual functions.
 	Condense code and update - create constructor with parameter to reduce the number of assests, both player and NPC, in the game
 	add truck with two pizza capacity and van with three. Trade-off is speed.
+	add acceleration mechanics which allow upgrades to acceleration. conserve momentum and need a little time to break.
 	make loss return the player to the first level, possibly after the timer on the lose screen.
 	add sounds?
