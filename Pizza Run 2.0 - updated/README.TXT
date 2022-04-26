@@ -1,17 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: Pizza Run
 PURPOSE OF PROJECT: to complete a midterm assignment
 VERSION or DATE: 2.0
 HOW TO START THIS PROJECT: click 'project'
 AUTHORS: Matthew Schimmel
-USER INSTRUCTIONS:
-press the arrow keys or wasd to move.
-The object of the game is to deliver pizzas from the shop (top left on screen) to the houses.
+USER INSTRUCTIONS: press the arrow keys or wasd to move. The object of the game is to deliver pizzas from the shop (top left on screen) to the houses.
 
 Patch Notes:
  - condensed code
