@@ -23,7 +23,8 @@ Patch Notes:
  - note: The player must activate cheats like on/off invinciblity at the start of every level. Progressing to another level will cancel invincibility status.
 
 To do: add space on the screen, and make houses spawn farther and farther away at higher levels
+
+	Condense code and update - create constructor with parameter to reduce the number of assests, both player and NPC, in the game
 	add truck with two pizza capacity and van with three. Trade-off is speed.
-	Condense code and update
 	make loss return the player to the first level, possibly after the timer on the lose screen.
 	add sounds?
